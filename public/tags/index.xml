@@ -21,10 +21,10 @@
       <description></description>
     </item>
     <item>
-      <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
+      <title>Learning-Journey</title>
+      <link>http://localhost:1313/tags/learning-journey/</link>
       <pubDate>Sat, 16 Aug 2025 14:48:11 +0530</pubDate>
-      <guid>http://localhost:1313/tags/learning/</guid>
+      <guid>http://localhost:1313/tags/learning-journey/</guid>
       <description></description>
     </item>
     <item>
@@ -32,6 +32,153 @@
       <link>http://localhost:1313/tags/startup/</link>
       <pubDate>Sat, 16 Aug 2025 14:48:11 +0530</pubDate>
       <guid>http://localhost:1313/tags/startup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google-Search-Console</title>
+      <link>http://localhost:1313/tags/google-search-console/</link>
+      <pubDate>Sat, 28 Dec 2024 15:33:44 +0530</pubDate>
+      <guid>http://localhost:1313/tags/google-search-console/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indexing</title>
+      <link>http://localhost:1313/tags/indexing/</link>
+      <pubDate>Sat, 28 Dec 2024 15:33:44 +0530</pubDate>
+      <guid>http://localhost:1313/tags/indexing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Crawling</title>
+      <link>http://localhost:1313/tags/web-crawling/</link>
+      <pubDate>Sat, 28 Dec 2024 15:33:44 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-crawling/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>http://localhost:1313/tags/linux/</link>
+      <pubDate>Wed, 16 Oct 2024 15:48:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server-Automation</title>
+      <link>http://localhost:1313/tags/server-automation/</link>
+      <pubDate>Wed, 16 Oct 2024 15:48:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/server-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell-Scripting</title>
+      <link>http://localhost:1313/tags/shell-scripting/</link>
+      <pubDate>Wed, 16 Oct 2024 15:48:46 +0530</pubDate>
+      <guid>http://localhost:1313/tags/shell-scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conversion-Tracking</title>
+      <link>http://localhost:1313/tags/conversion-tracking/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/tags/conversion-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>React</title>
+      <link>http://localhost:1313/tags/react/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/tags/react/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>User-Tracking</title>
+      <link>http://localhost:1313/tags/user-tracking/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/tags/user-tracking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Analytics</title>
+      <link>http://localhost:1313/tags/web-analytics/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Thu, 08 Aug 2024 14:53:12 +0530</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Performance</title>
+      <link>http://localhost:1313/tags/web-performance/</link>
+      <pubDate>Thu, 08 Aug 2024 14:53:12 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web-Vitals</title>
+      <link>http://localhost:1313/tags/web-vitals/</link>
+      <pubDate>Thu, 08 Aug 2024 14:53:12 +0530</pubDate>
+      <guid>http://localhost:1313/tags/web-vitals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auth-Migration</title>
+      <link>http://localhost:1313/tags/auth-migration/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/auth-migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Frictionless-Migration</title>
+      <link>http://localhost:1313/tags/frictionless-migration/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/frictionless-migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enhancement</title>
+      <link>http://localhost:1313/tags/enhancement/</link>
+      <pubDate>Mon, 17 Jun 2024 00:56:18 +0530</pubDate>
+      <guid>http://localhost:1313/tags/enhancement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Url-Routing</title>
+      <link>http://localhost:1313/tags/url-routing/</link>
+      <pubDate>Mon, 17 Jun 2024 00:56:18 +0530</pubDate>
+      <guid>http://localhost:1313/tags/url-routing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blogging</title>
+      <link>http://localhost:1313/tags/blogging/</link>
+      <pubDate>Tue, 21 May 2024 00:27:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/blogging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>http://localhost:1313/tags/web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
     </item>
   </channel>

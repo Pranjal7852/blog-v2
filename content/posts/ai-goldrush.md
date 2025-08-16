@@ -2,10 +2,9 @@
 date: '2025-08-16T14:48:11+05:30'
 draft: true
 title: 'Beyond the AI Gold Rush'
-tags: ["AI", "Startup", "Learning"]
+tags: ["AI", "Startup", "learning-journey"]
 hidemeta: false
-comments: true
-description: "We replaced expensive third-party AI APIs with self-hosted ML models to solve privacy concerns, unpredictable costs, and lack of control in our kids' chat platform—proving that the shiniest AI solution isn't always the smartest business decision"
+description: "⚡ TL;DR We replaced expensive third-party AI APIs with self-hosted ML models to solve privacy concerns, unpredictable costs, and lack of control in our kids' chat platform—proving that the shiniest AI solution isn't always the smartest business decision"
 cover:
     image: "images/AI-Gold-Rush.jpg" # image path/url
     alt: "<alt text>" # alt text

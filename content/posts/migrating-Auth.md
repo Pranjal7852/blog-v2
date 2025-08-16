@@ -2,6 +2,8 @@
 title: "Seamless Auth System Migration with Supertokens"
 date: 2024-07-28
 draft: false
+tags: ["web-development", "auth-migration", "frictionless-migration", "startup"]
+description: "⚡ TL;DR A step-by-step guide to seamlessly migrating 5000+ active users from an admin-secret auth system to SuperTokens without any downtime or user disruption, using a clever dual-version deployment strategy with token pre-generation."
 ---
 
 ![Auth System Migration with supertoken](/images/auth-supertokens.jpg)

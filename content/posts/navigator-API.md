@@ -2,6 +2,8 @@
 title = 'Know your user like never before using Navigator API'
 date = 2024-08-08T14:53:12+05:30
 draft = false
+tags= ["web-performance", "javascript", "web-vitals"]
+description= "⚡ TL;DR A comprehensive guide to leveraging the Navigator API for collecting crucial user environment metrics like CPU heap size, RAM, network speed, and device info to enhance error tracking and performance monitoring in web applications."
 +++
 
 # Navigator API - More than meets the Eye

@@ -2,6 +2,8 @@
 title = 'Enhancing User Experience: Using Emojis in Web App URLs'
 date = 2024-06-17T00:56:18+05:30
 draft = false
+tags= ["web-development", "url-routing", "Enhancement"]
+description= "⚡ TL;DR Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations."
 +++
 
 ## Introduction

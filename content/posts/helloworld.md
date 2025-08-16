@@ -2,6 +2,8 @@
 title = 'helloWorld'
 date = 2024-05-21T00:27:00+05:30
 draft = false
+tags= ["web-development", "blogging", "learning-journey"]
+description= "⚡ TL;DR A web developer's inaugural blog post introducing their learning journey documentation using Hugo for its simplicity and performance, achieving 97%+ Lighthouse scores while creating an organized alternative to scattered GitHub code files."
 +++
 
 ## Hey readers!

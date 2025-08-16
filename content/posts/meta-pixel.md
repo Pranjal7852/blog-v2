@@ -2,6 +2,8 @@
 title = 'The F Pixel by Meta'
 date = 2024-08-20T16:39:47+05:30
 draft = false
+tags= ["web-development", "web-analytics", "user-tracking", "react", "conversion-tracking"]
+description= "⚡ TL;DR A comprehensive guide to implementing Meta's Facebook Pixel in Next.js applications for tracking user behavior and running personalized ad campaigns, including code examples and privacy considerations in the post-iOS 14.5 era."
 +++
 
 ## The F Pixel by Meta

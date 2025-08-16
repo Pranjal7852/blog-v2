@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web-Crawling on Pranjal&#39;s Blog</title>
+    <link>http://localhost:1313/tags/web-crawling/</link>
+    <description>Recent content in Web-Crawling on Pranjal&#39;s Blog</description>
+    <image>
+      <title>Pranjal&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Dec 2024 15:33:44 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-crawling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Ensure Your Websites Ranks on Google</title>
+      <link>http://localhost:1313/posts/seo-google-search-console/</link>
+      <pubDate>Sat, 28 Dec 2024 15:33:44 +0530</pubDate>
+      <guid>http://localhost:1313/posts/seo-google-search-console/</guid>
+      <description>A web developer&amp;#39;s inaugural blog post introducing their learning journey documentation using Hugo for its simplicity and performance, achieving 97%&#43; Lighthouse scores while creating an organized alternative to scattered GitHub code files.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,6 +2,8 @@
 title = 'Why and What is SHELL?'
 date = 2024-10-16T15:48:46+05:30
 draft = false
+tags= ["shell-scripting", "linux", "server-automation"]
+description= "⚡ TL;DR A practical introduction to shell scripting for developers, showcasing real-world automation examples including AWS server setup and Netdata monitoring installation across multiple microservices to eliminate manual deployment errors."
 +++
 
 # A Developer’s Best Friend for Linux Systems

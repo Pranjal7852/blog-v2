@@ -2,6 +2,8 @@
 title = 'How to Ensure Your Websites Ranks on Google'
 date = 2024-12-28T15:33:44+05:30
 draft = false
+tags= ["web-crawling", "google-search-console", "indexing"]
+description= "⚡ TL;DR A technical guide to solving common SEO challenges including multi-region canonical URLs and preventing test site indexing, using dynamic sitemap generation and Google Search Console to boost your web app's search visibility."
 +++
 
 # Custom solutions to enhance Search Enginer Optimization and an Overview of Google Seach Console
