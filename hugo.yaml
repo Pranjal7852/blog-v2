@@ -14,10 +14,9 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Geek Gazette - Pranjal Goyal | Blog
-  description: "ExampleSite description"
+  title: Pranjal's Blog
+  description: "Blog Website by Pranjal Goyal made using Hugo and PaperMod"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -71,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi, my name is Pranjal Goyal. \U0001F44B"
+    Content: I'm a Full Stack Developer with a serious passion for UI effects, animations and creating intuitive user experiences with highly scalable backend. I believe in sharing, learning and growing together. I’m thrilled to start documenting my learning journey as a Software Engineer, and this blog marks the beginning of that adventure.
 
   socialIcons:
     - name: github
@@ -96,9 +95,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
 
 
@@ -119,10 +118,6 @@ menu:
       name: Posts
       url: /posts/
       weight: 5 
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
