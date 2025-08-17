@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/migrating-auth/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/migrating-auth/</guid>
-      <description>A step-by-step guide to seamlessly migrating 5000&#43; active users from an admin-secret auth system to SuperTokens without any downtime or user disruption, using a clever dual-version deployment strategy with token pre-generation.</description>
+      <description>⚡ TL;DR A step-by-step guide to seamlessly migrating 5000&#43; active users from an admin-secret auth system to SuperTokens without any downtime or user disruption, using a clever dual-version deployment strategy with token pre-generation.</description>
     </item>
   </channel>
 </rss>

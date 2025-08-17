@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/shell-scripting/</link>
       <pubDate>Wed, 16 Oct 2024 15:48:46 +0530</pubDate>
       <guid>http://localhost:1313/posts/shell-scripting/</guid>
-      <description>A practical introduction to shell scripting for developers, showcasing real-world automation examples including AWS server setup and Netdata monitoring installation across multiple microservices to eliminate manual deployment errors.</description>
+      <description>⚡ TL;DR A practical introduction to shell scripting for developers, showcasing real-world automation examples including AWS server setup and Netdata monitoring installation across multiple microservices to eliminate manual deployment errors.</description>
     </item>
   </channel>
 </rss>

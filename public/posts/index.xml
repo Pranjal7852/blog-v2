@@ -18,73 +18,56 @@
       <link>http://localhost:1313/posts/ai-goldrush/</link>
       <pubDate>Sat, 16 Aug 2025 14:48:11 +0530</pubDate>
       <guid>http://localhost:1313/posts/ai-goldrush/</guid>
-      <description>We replaced expensive third-party AI APIs with self-hosted ML models to solve privacy concerns, unpredictable costs, and lack of control in our kids&amp;#39; chat platform—proving that the shiniest AI solution isn&amp;#39;t always the smartest business decision</description>
+      <description>⚡ TL;DR We replaced expensive third-party AI APIs with self-hosted ML models to solve privacy concerns, unpredictable costs, and lack of control in our kids&amp;#39; chat platform—proving that the shiniest AI solution isn&amp;#39;t always the smartest business decision</description>
     </item>
     <item>
       <title>How to Ensure Your Websites Ranks on Google</title>
       <link>http://localhost:1313/posts/seo-google-search-console/</link>
       <pubDate>Sat, 28 Dec 2024 15:33:44 +0530</pubDate>
       <guid>http://localhost:1313/posts/seo-google-search-console/</guid>
-      <description>&lt;h1 id=&#34;custom-solutions-to-enhance-search-enginer-optimization-and-an-overview-of-google-seach-console&#34;&gt;Custom solutions to enhance Search Enginer Optimization and an Overview of Google Seach Console&lt;/h1&gt;
-&lt;p&gt;Imagine this: Your web app is ready to rock the world. You’ve nailed the development, deployment is flawless, and your marketing team is prepped to take the spotlight. But there’s a catch—when users Google your app’s name, your website doesn’t show up. How can users trust your app is legit? And if they want to test your product, how will they find it? You can’t just hand out your server’s IP address to bypass DNS, right?&lt;/p&gt;</description>
+      <description>⚡ TL;DR A technical guide to solving common SEO challenges including multi-region canonical URLs and preventing test site indexing, using dynamic sitemap generation and Google Search Console to boost your web app&amp;#39;s search visibility.</description>
     </item>
     <item>
       <title>Why and What is SHELL?</title>
       <link>http://localhost:1313/posts/shell-scripting/</link>
       <pubDate>Wed, 16 Oct 2024 15:48:46 +0530</pubDate>
       <guid>http://localhost:1313/posts/shell-scripting/</guid>
-      <description>&lt;h1 id=&#34;a-developers-best-friend-for-linux-systems&#34;&gt;A Developer’s Best Friend for Linux Systems&lt;/h1&gt;
-&lt;p&gt;If you’ve ever deployed something on the web, you’re likely familiar with servers running Linux distributions. Unlike your local machine, these servers often lack a graphical user interface (GUI). Instead, you interact with them through a terminal window. This is where &lt;strong&gt;SHELL&lt;/strong&gt; comes into play.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Terminal using Shell script&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/terminal-shell.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;SHELL is the language of Linux that allows you to interact with the system, execute commands, and automate repetitive tasks. Whether you’re managing files, deploying applications, or setting up servers, SHELL scripting can save you time and effort.&lt;/p&gt;</description>
+      <description>⚡ TL;DR A practical introduction to shell scripting for developers, showcasing real-world automation examples including AWS server setup and Netdata monitoring installation across multiple microservices to eliminate manual deployment errors.</description>
     </item>
     <item>
       <title>The F Pixel by Meta</title>
       <link>http://localhost:1313/posts/meta-pixel/</link>
       <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
       <guid>http://localhost:1313/posts/meta-pixel/</guid>
-      <description>&lt;h2 id=&#34;the-f-pixel-by-meta&#34;&gt;The F Pixel by Meta&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;Facebook Pixel by Meta&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/meta_pixel.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Yes, it&amp;rsquo;s a Facebook version of Mixpanel or a data analytics tool used to track user behavior across app, web, iOS, or any device with Chrome. The purpose is to collect user data—of course, with consent (whether to be tracked or not 🧑‍💻)—to help business owners run personalized ads and campaigns via Facebook.&lt;/p&gt;
-&lt;p&gt;It’s as simple to use as embedding an image. This is because, theoretically, for all practical purposes, it’s just a 1px x 1px pixel embedded in your HTML DOM, along with some scripts that send data to Facebook&amp;rsquo;s servers.&lt;/p&gt;</description>
+      <description>⚡ TL;DR A comprehensive guide to implementing Meta&amp;#39;s Facebook Pixel in Next.js applications for tracking user behavior and running personalized ad campaigns, including code examples and privacy considerations in the post-iOS 14.5 era.</description>
     </item>
     <item>
       <title>Know your user like never before using Navigator API</title>
       <link>http://localhost:1313/posts/navigator-api/</link>
       <pubDate>Thu, 08 Aug 2024 14:53:12 +0530</pubDate>
       <guid>http://localhost:1313/posts/navigator-api/</guid>
-      <description>&lt;h1 id=&#34;navigator-api---more-than-meets-the-eye&#34;&gt;Navigator API - More than meets the Eye&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Navigator API present inside Chrome Dev&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/chrome_dev.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;For those who don’t know, the Navigator API is a native API available in all browsers that provides user-centric metrics for your website. It offers insights into how your high-value site is performing. Some may use it to customize the interface for different platforms, such as displaying premium items to iOS users, but its main purpose is to understand how your code behaves across different user environments and internet speeds, including ping. This helps developers diagnose and recreate issues to solve them more effectively. The Navigator API also provides CPU heap statistics, which reveal how CSS effects impact users&amp;rsquo; CPU threads.&lt;/p&gt;</description>
+      <description>⚡ TL;DR A comprehensive guide to leveraging the Navigator API for collecting crucial user environment metrics like CPU heap size, RAM, network speed, and device info to enhance error tracking and performance monitoring in web applications.</description>
     </item>
     <item>
       <title>Seamless Auth System Migration with Supertokens</title>
       <link>http://localhost:1313/posts/migrating-auth/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/migrating-auth/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Auth System Migration with supertoken&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/auth-supertokens.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Shortly after joining a Bangalore startup after college, due to my previous experience in working with auth systems, I was given the task to change the current auth system from admin-secret based to a token-based auth system. with our prod server having an active user base of 5000 plus users daily.&lt;/p&gt;
-&lt;p&gt;Adding more spice to the curry, since the app is used by children, we don’t want them to be redirected to a login screen after the new auth system is implemented. The transition for auth in both our frontend and backend systems should happen frictionlessly without users even noticing.&lt;/p&gt;</description>
+      <description>⚡ TL;DR A step-by-step guide to seamlessly migrating 5000&#43; active users from an admin-secret auth system to SuperTokens without any downtime or user disruption, using a clever dual-version deployment strategy with token pre-generation.</description>
     </item>
     <item>
       <title>Enhancing User Experience: Using Emojis in Web App URLs</title>
       <link>http://localhost:1313/posts/emojiintheurl/</link>
       <pubDate>Mon, 17 Jun 2024 00:56:18 +0530</pubDate>
       <guid>http://localhost:1313/posts/emojiintheurl/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Emojis have become a significant part of digital communication, bringing a fun and expressive element to text. In web development, enhancing user experience and engagement is crucial. One creative way to achieve this is by integrating emojis into URL routes. This article explores the concept, benefits, and implementation of emojis in URL routes for your next web app project.&lt;/p&gt;
-&lt;h2 id=&#34;understanding-url-routes&#34;&gt;Understanding URL Routes&lt;/h2&gt;
-&lt;p&gt;URL routes are the paths defined in your web application that map to different content or functionality. Traditional URL structures, like &lt;code&gt;/about&lt;/code&gt; or &lt;code&gt;/contact&lt;/code&gt;, are straightforward but can be bland. Adding emojis can make these routes more engaging and memorable.&lt;/p&gt;</description>
+      <description>⚡ TL;DR Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations.</description>
     </item>
     <item>
       <title>helloWorld</title>
       <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Tue, 21 May 2024 00:27:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/helloworld/</guid>
-      <description>&lt;h2 id=&#34;hey-readers&#34;&gt;Hey readers!&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m thrilled to start documenting my learning journey as a web developer, and this blog marks the beginning of that adventure. From now on, I will be sharing my experiences, challenges, and progress as a full stack developer.&lt;/p&gt;
-&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;
-&lt;p&gt;You might wonder why I chose Hugo over a more complex web framework. The answer is simple: for a static application like this, Hugo is not only sufficient but also highly efficient. Using more elaborate frameworks for such purposes often feels like overkill. Hugo offers simplicity and speed without compromising performance. In fact, a quick check on Lighthouse shows that all the web vitals are above 97%. Achieving that with more sophisticated frameworks can be quite challenging.&lt;/p&gt;</description>
+      <description>⚡ TL;DR A web developer&amp;#39;s inaugural blog post introducing their learning journey documentation using Hugo for its simplicity and performance, achieving 97%&#43; Lighthouse scores while creating an organized alternative to scattered GitHub code files.</description>
     </item>
   </channel>
 </rss>

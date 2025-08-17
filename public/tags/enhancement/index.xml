@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/emojiintheurl/</link>
       <pubDate>Mon, 17 Jun 2024 00:56:18 +0530</pubDate>
       <guid>http://localhost:1313/posts/emojiintheurl/</guid>
-      <description>We replaced expensive third-party AI APIs with self-hosted ML models to solve privacy concerns, unpredictable costs, and lack of control in our kids&amp;#39; chat platform—proving that the shiniest AI solution isn&amp;#39;t always the smartest business decision</description>
+      <description>⚡ TL;DR Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations.</description>
     </item>
   </channel>
 </rss>

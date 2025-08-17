@@ -11,14 +11,35 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 May 2024 00:27:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 16:39:47 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The F Pixel by Meta</title>
+      <link>http://localhost:1313/posts/meta-pixel/</link>
+      <pubDate>Tue, 20 Aug 2024 16:39:47 +0530</pubDate>
+      <guid>http://localhost:1313/posts/meta-pixel/</guid>
+      <description>⚡ TL;DR A comprehensive guide to implementing Meta&amp;#39;s Facebook Pixel in Next.js applications for tracking user behavior and running personalized ad campaigns, including code examples and privacy considerations in the post-iOS 14.5 era.</description>
+    </item>
+    <item>
+      <title>Seamless Auth System Migration with Supertokens</title>
+      <link>http://localhost:1313/posts/migrating-auth/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/migrating-auth/</guid>
+      <description>⚡ TL;DR A step-by-step guide to seamlessly migrating 5000&#43; active users from an admin-secret auth system to SuperTokens without any downtime or user disruption, using a clever dual-version deployment strategy with token pre-generation.</description>
+    </item>
+    <item>
+      <title>Enhancing User Experience: Using Emojis in Web App URLs</title>
+      <link>http://localhost:1313/posts/emojiintheurl/</link>
+      <pubDate>Mon, 17 Jun 2024 00:56:18 +0530</pubDate>
+      <guid>http://localhost:1313/posts/emojiintheurl/</guid>
+      <description>⚡ TL;DR Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations.</description>
+    </item>
     <item>
       <title>helloWorld</title>
       <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Tue, 21 May 2024 00:27:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/helloworld/</guid>
-      <description>Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations.</description>
+      <description>⚡ TL;DR A web developer&amp;#39;s inaugural blog post introducing their learning journey documentation using Hugo for its simplicity and performance, achieving 97%&#43; Lighthouse scores while creating an organized alternative to scattered GitHub code files.</description>
     </item>
   </channel>
 </rss>

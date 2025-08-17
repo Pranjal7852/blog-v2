@@ -1,6 +1,6 @@
 ---
 date: '2025-08-16T14:48:11+05:30'
-draft: true
+draft: false
 title: 'Beyond the AI Gold Rush'
 tags: ["AI", "Startup", "learning-journey"]
 hidemeta: false

@@ -8,7 +8,7 @@
     <loc>http://localhost:1313/posts/ai-goldrush/</loc>
     <lastmod>2025-08-16T14:48:11+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
+    <loc>http://localhost:1313/tags/learning-journey/</loc>
     <lastmod>2025-08-16T14:48:11+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
@@ -23,23 +23,80 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-16T14:48:11+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/google-search-console/</loc>
+    <lastmod>2024-12-28T15:33:44+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/seo-google-search-console/</loc>
     <lastmod>2024-12-28T15:33:44+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/indexing/</loc>
+    <lastmod>2024-12-28T15:33:44+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-crawling/</loc>
+    <lastmod>2024-12-28T15:33:44+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2024-10-16T15:48:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/server-automation/</loc>
+    <lastmod>2024-10-16T15:48:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shell-scripting/</loc>
+    <lastmod>2024-10-16T15:48:46+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/shell-scripting/</loc>
     <lastmod>2024-10-16T15:48:46+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/conversion-tracking/</loc>
+    <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/react/</loc>
+    <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/meta-pixel/</loc>
     <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/user-tracking/</loc>
+    <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-analytics/</loc>
+    <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2024-08-20T16:39:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/javascript/</loc>
+    <lastmod>2024-08-08T14:53:12+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/navigator-api/</loc>
     <lastmod>2024-08-08T14:53:12+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/web-performance/</loc>
+    <lastmod>2024-08-08T14:53:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-vitals/</loc>
+    <lastmod>2024-08-08T14:53:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/auth-migration/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/frictionless-migration/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/migrating-auth/</loc>
     <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/enhancement/</loc>
+    <lastmod>2024-06-17T00:56:18+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/emojiintheurl/</loc>
     <lastmod>2024-06-17T00:56:18+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/url-routing/</loc>
+    <lastmod>2024-06-17T00:56:18+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blogging/</loc>
+    <lastmod>2024-05-21T00:27:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/helloworld/</loc>
     <lastmod>2024-05-21T00:27:00+05:30</lastmod>

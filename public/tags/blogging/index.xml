@@ -18,7 +18,7 @@
       <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Tue, 21 May 2024 00:27:00 +0530</pubDate>
       <guid>http://localhost:1313/posts/helloworld/</guid>
-      <description>Learn how to make your web app URLs more engaging and memorable by integrating emojis into URL routes using Next.js and Express.js, complete with implementation examples and browser compatibility considerations.</description>
+      <description>⚡ TL;DR A web developer&amp;#39;s inaugural blog post introducing their learning journey documentation using Hugo for its simplicity and performance, achieving 97%&#43; Lighthouse scores while creating an organized alternative to scattered GitHub code files.</description>
     </item>
   </channel>
 </rss>
