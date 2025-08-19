@@ -15,7 +15,7 @@ cover:
 
 # Privacy, Cost, and Control: Why We Moved Away from Third-Party AI Services
 
-During my time with Circlone, a social media platform for kids, I was tasked with working on a service to moderate text messages. I briefly remember from one of our product meetings we discussed that the chat should have at least these functionalities for kids: auto-correction (just like Grammarly) and toxicity detection to make the platform safe for children to use.
+During my time working on a social media platform for kids, I was tasked with working on a service to moderate text messages. I briefly remember from one of our product meetings we discussed that the chat should have at least these functionalities for kids: auto-correction (just like Grammarly) and toxicity detection to make the platform safe for children to use.
 
 The goal was absolutely clear: make the chat system resonate with the product's mission—safe for children—and add value to their learning. And like every other startup in the game, we also wanted to ride the AI gold wagon.
 
@@ -39,7 +39,7 @@ I'm not saying that using AI is bad or that you should avoid it entirely. What I
 
 ## Our Solution
 
-After around a day of intensive discussion, we agreed to use open-source models for grammar correction and toxicity detection (similar to Grammarly's approach). We decided to create a TensorFlow FastAPI wrapper, dockerize it inside a container, and run it on our EC2 instances.
+After around a day of intensive discussion, we agreed to use open-source models for grammar correction and toxicity detection. We decided to create a TensorFlow FastAPI wrapper, dockerize it inside a container, and run it on our EC2 instances.
 
 By self-hosting these machine learning models, we solved several critical issues:
 
