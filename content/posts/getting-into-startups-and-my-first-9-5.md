@@ -7,7 +7,7 @@ draft: false
 
 From the very beginning and as far as I can remember, I always wanted to be a software engineer. From pleasing my parents on getting the first computer of the house so that I could play video games, I always liked being surrounded by technology. As a matter of fact, I did not care about which college or which course I was gonna study (I ended up getting Electronics :P). I was just so passionate about tech, I knew I would make a career in it. I find it funny for people like me when you go to social events that you are asked what your hobby is, and I cannot think of programming as being it.
 
-![End of Day 1 at Dukaan HQ](/images/getting-into-startups-and-my-first-9-5-day1-1.jpg)
+![End of Day 1 at Dukaan HQ](/images/getting-into-startups-and-my-first-9-5-day1-1.jpeg)
 
 So, like everyone around me, that dream and manifestation came down to my choice on choosing my type of companies to work for during the final days of my college. As I have already talked about, I had been doing quite some development from the very beginning of my college, sometimes even for volunteering or just freelancing for a small business or to learn something new. I had the choice of choosing a large company with thousands of employees and multiple offices across the globe and country, but a good mentor of mine in college recommended me to go for a small place to start from in my career as you get to learn a lot. On the day of the farewell of his class, I asked him for one piece of advice for someone like me curious to start a career in tech, and he introduced me to YC companies and the world of startups solving problems and creating a big impact.
 
@@ -23,7 +23,7 @@ My manager was like a marshal in the field. He had been in the company from the 
 
 But now that I think of it: it was the best place to start your career. And this mindset of putting something on a plate (I like to call it primal survivor mode) and getting things done is an attitude that is very demanding. People do not care how many hours you put in, how many lines of code you wrote, or how fast your code compiles. At the end, what matters is how fast you are able to meet business problems through code. And yes, this would mean you end up creating a system that is not perfect; you do not know many parts of it, but it is sustainable. Once you have the right resources, you can always invest in fixing things; what matters is to keep your boat on the move.
 
-![View from nvidia office bangalore](/images/view_of_bangalore.jpg)
+![View from nvidia office bangalore](/images/view_of_bangalore.jpeg)
 
 These are some of my meeting notes from my time working there:
 
